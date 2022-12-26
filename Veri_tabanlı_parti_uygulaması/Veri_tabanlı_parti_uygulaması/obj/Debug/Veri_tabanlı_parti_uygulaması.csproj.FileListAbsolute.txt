@@ -1,0 +1,12 @@
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\bin\Debug\Veri_tabanlı_parti_uygulaması.exe.config
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\bin\Debug\Veri_tabanlı_parti_uygulaması.exe
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\bin\Debug\Veri_tabanlı_parti_uygulaması.pdb
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\obj\Debug\Veri_tabanlı_parti_uygulaması.csproj.AssemblyReference.cache
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\obj\Debug\Veri_tabanlı_parti_uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\obj\Debug\Veri_tabanlı_parti_uygulaması.VTGS.resources
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\obj\Debug\Veri_tabanlı_parti_uygulaması.Grafikler.resources
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\obj\Debug\Veri_tabanlı_parti_uygulaması.Properties.Resources.resources
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\obj\Debug\Veri_tabanlı_parti_uygulaması.csproj.GenerateResource.cache
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\obj\Debug\Veri_tabanlı_parti_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\obj\Debug\Veri_tabanlı_parti_uygulaması.exe
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Veri_tabanlı_parti_uygulaması\Veri_tabanlı_parti_uygulaması\obj\Debug\Veri_tabanlı_parti_uygulaması.pdb
